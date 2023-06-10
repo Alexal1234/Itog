@@ -1,13 +1,13 @@
 export const routes = [
     {
       id: 1,
-      title: 'My First Blog Post',
-      body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
+      title: 'Почему я решил изучать HTML5?',
+      body: 'В этой статье отвечу на этот вопрос.',
     },
     {
         id: 2,
-        title: "My Second Blog Post",
-        body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate"
+        title: "Советы в программировании",
+        body: "В этой статье хочу дать несколько советы при создании сайтов"
       },
       
 ];
